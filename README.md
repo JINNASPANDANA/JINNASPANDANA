@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @JINNASPANDANA
-- 👀 I’m interested in full stack dovelopment
-- 🌱 I’m currently learning web developing
-- 💞️ I’m looking for intership
-- 📫 How to reach me www.linkedin.com/in/
+Hi, I’m @JINNASPANDANA
+I’m interested in full stack dovelopment
+I’m looking for intership
+How to reach me www.linkedin.com/in/
 spandana-jinna-8963a6290
 
 
